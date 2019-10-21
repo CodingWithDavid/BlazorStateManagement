@@ -1,4 +1,4 @@
-# Blazor Components
+# Blazor State Management
 
 This project was created to help me learn and remember the state management in a Blazor Application.
 
